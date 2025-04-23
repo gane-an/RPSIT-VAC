@@ -1,0 +1,9 @@
+.active {
+  color: #fff !important;
+}
+.nav-link:hover {
+  color: #ccc !important;
+}
+html{
+    overflow-x: hidden;
+}
