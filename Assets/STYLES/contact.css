@@ -14,7 +14,10 @@
     display: flex;
     justify-content: center;
     /* padding: 10px; */
-    scale: 0.6;
+    /* scale: 0.5; */
+}
+.form .img-container img{
+    width: 300px;
 }
 .form label{
     margin-right: 20px;
@@ -22,4 +25,14 @@
 }
 .form  input{
     width: auto;
+}
+.form .content{
+    min-width: 200px;
+    overflow: hidden;
+}
+.form input{
+    width: 100%;
+}
+form{
+    padding:20px;
 }
